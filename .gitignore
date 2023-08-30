@@ -1,10 +1,14 @@
+starknet/target
 node_modules
-.env
-coverage
-coverage.json
-typechain
-dist
+
+eth/node_modules
+eth/.env
+eth/coverage
+eth/coverage.json
+eth/typechain
+eth/dist
 
 #Hardhat files
-cache
-artifacts
+eth/cache
+
+eth/artifacts
